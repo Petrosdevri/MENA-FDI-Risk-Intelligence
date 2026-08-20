@@ -1,0 +1,65 @@
+.text-dark {
+  color: var(--text-dark) !important;
+}
+
+.text-dark-50 {
+  color: color-mix(in srgb, var(--text-dark) 50%, transparent);
+}
+
+.text-dark-60 {
+  color: color-mix(in srgb, var(--text-dark) 60%, transparent);
+}
+
+.text-headline {
+  color: var(--text) !important;
+}
+
+.primary {
+  color: var(--text-prim) !important;
+}
+
+.header, .meth-overview, .radar-chart-select, .standing, .top-stat, .top-stats {
+  background: var(--bg-alternate);
+}
+
+.formula {
+  background: var(--bg);
+}
+
+.standing-head {
+  background: var(--border);
+}
+
+.orange-score {
+  color: var(--orange-score);
+}
+
+.green-score {
+  color: var(--green-score);
+}
+
+.purple-score {
+  color: var(--purple-score);
+}
+
+.red-score {
+  color: var(--red-score);
+}
+
+.country-select {
+  background: var(--border);
+}
+
+.meth-overview {
+  border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .header-box {
+    flex-direction: column;
+  }
+
+  code {
+    font-size: 0.8em;
+  }
+}

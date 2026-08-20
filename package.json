@@ -1,0 +1,21 @@
+{
+  "name": "mena-fdi-risk-intelligence",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Petrosdevri/MENA-FDI-Risk-Intelligence#readme",
+  "bugs": {
+    "url": "https://github.com/Petrosdevri/MENA-FDI-Risk-Intelligence/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petrosdevri/MENA-FDI-Risk-Intelligence.git"
+  },
+  "license": "ISC",
+  "author": "Petros Devrikis",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd fdi-dashboard && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
