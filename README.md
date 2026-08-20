@@ -1,1 +1,7 @@
-# MENA-FDI-Risk-Intelligence
+# MENA FDI Risk Intelligence Monitor
+
+> Petros Devrikis is an International Relations Researcher and Geopolitical Analyst specializing in the economic and political landscapes of the Middle East. With a background in International & European Studies from the University of Macedonia, he bridges the gap between academic research and practical financial intelligence. Petros has a proven track record of delivering deep-dive analyses on regional crises, including fiscal policy in Lebanon and geopolitical propaganda, for leading Greek research centers like the Institute of International Economic Relations (IIER)."
+
+In the high-stakes world of international finance, understanding the Middle East requires more than just reading the news. It requires a systematic way to weigh political instability against market potential. Petros Devrikis built the MENA FDI Risk Intelligence Monitor to turn fragmented geopolitical data into a clear, visual roadmap for investors. By combining academic rigor with modern web development, he has created a tool that makes complex risk assessment instantaneous.
+
+MENA FDI Risk Intelligence Monitor constitutes a recreation of the [project](https://try.ka.nz/ai/petrosdevrikis) made during the Kanz AI Hackathon. It's written in React.js and Tailwind CSS.
