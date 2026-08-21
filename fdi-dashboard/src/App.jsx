@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Footer from './components/Footer'
 import Header from './components/Header'
 import CountryRadarChart from './components/RadarChart'
 import FullStanding from './components/FullStanding/FullStanding'
@@ -20,6 +21,7 @@ function App() {
         </div>
         <FullStanding />
       </main>
+      <Footer />
     </>
   )
 }
