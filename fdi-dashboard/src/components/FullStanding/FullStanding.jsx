@@ -2,13 +2,13 @@ import { countries, groupColors } from "../../data/fdiData";
 
 function FullStanding() {
     return (
-        <section className='flex flex-col'>
+        <section className='full-standing flex flex-col'>
             <div className='text-start'>
                 <h1 className="font-medium tracking-wider mb-1 text-headline">Bilateral Comparison</h1>
                 <p className="text-xs text-dark">Sub-component breakdown visualization</p>
             </div>
             <div className='overflow-x-auto'>
-                <table className="w-full text-sm text-start">
+                <table className="standing-table w-full text-sm text-start">
                     <thead className="standing-head text-xs text-dark uppercase border-b border-border">
                         <tr>
                             <th className="px-4 py-3 font-medium w-12 text-center">Rnk</th>
